@@ -1,7 +1,7 @@
 # ALD
 Further material for Pass et. al 2017, "Genome-wide chromatin mapping with size resolution reveals a dynamic sub-nucleosomal landscape in Arabidopsis"
 
-BAM2SizePlot.py script used for 2D and 3D figure generation from Paired-End sequence date from MNase digested genomic DNA.
+BAM2SizePlot.py script used for 2D and 3D figure generation from Paired-End sequence date from MNase digested genomic DNA, utilising the plotly visualisation package.
 
 ```
 BAM2SizePlot.py -h
