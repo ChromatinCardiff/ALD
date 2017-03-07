@@ -33,3 +33,6 @@ optional arguments:
               (Default 1000, 'None' allows dynamic assignment)
   -t          Use default co-ordinates for testing
 ```
+![2D output](https://github.com/ChromatinCardiff/ALD/blob/master/StrikingImage.png)
+![3D output](https://github.com/ChromatinCardiff/ALD/blob/master/3Drepresentation.png)
+
